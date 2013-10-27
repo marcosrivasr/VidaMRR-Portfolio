@@ -1,0 +1,33 @@
+/*************** BODY ****************/
+*{
+}
+html,body{
+	/*letra de 16px*/
+}
+/*************** MENU ****************/
+#menu-container{
+	/*fondo de #222
+	  ancho de 200px*/
+}
+#menu-container #logo-menu{}
+#menu-container #menu{
+	/*#444 
+	  padding de 40px*/
+}
+#menu-container #menu li{
+	/* padding de 10px */
+}
+#menu-container #menu li a{
+	/*#FCB95B*/
+}
+#menu-container #menu li a:hover{
+	/*#F5DFCE*/
+}
+
+/********** MAIN CONTAINER ***********/
+#main-container{
+}
+#main-container .seccion{
+}
+#main-container .seccion h2{
+}
